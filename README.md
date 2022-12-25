@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rageh-ai
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Python for Data Science & R
+- 👋 Hi, I’m Ismail Rageh
+- 👀 I’m interested in Machine Learning and Cybersecurity
+- 🌱 I’m currently studying for the COMPTIA Security+
 - 💞️ I’m looking to collaborate on interesting projects :)
-- 📫 How to reach me ...
+- 📫 You can reach me at som3arageh@gmail.com
 
 <!---
 rageh-ai/rageh-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
