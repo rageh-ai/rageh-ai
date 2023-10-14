@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismail Rageh
-- 👀 I’m interested in Machine Learning and Cybersecurity
-- 🌱 I’m currently studying for the COMPTIA Security+
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently studying for the Google Advanced Data Analytics Certification
 - 💞️ I’m looking to collaborate on interesting projects :)
 - 📫 You can reach me at som3arageh@gmail.com
 
